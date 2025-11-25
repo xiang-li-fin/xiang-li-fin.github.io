@@ -1,28 +1,23 @@
 project:
   type: website
 website:
-  site-url: "https://grantmcdermott.com"
-  title: "Grant R. McDermott"
+  site-url: "https://xiang-li.com"
+  title: ""
   navbar:
     left:
       - text: Home
         href: index.qmd
-      - research/index.qmd
-      - teaching/index.qmd
-      - text: Vita
-        href: https://grantmcdermott.com/vita/mcdermott-vita.pdf
-      - software/index.qmd
-      - text: Blog
-        href: posts/index.qmd
-    right:
-      - icon: github
-        href: https://github.com/grantmcdermott
-      - text: "{{< iconify fa6-brands:bluesky >}}"
-        href: https://bsky.app/profile/gmcd.bsky.social
+      - text: Research
+        href: research/index.qmd
+      - text: CV
+        href: CV_Xiang_Li_2025Nov23.pdf 
+#      - text: Blog
+#        href: posts/index.qmd
   favicon: favicon.ico
-  google-analytics: "UA-76482472-1"
+  google-analytics: ""
   # cookie-consent: true
   open-graph: true
+  search: false
 format:
   html:
     theme: cosmo
