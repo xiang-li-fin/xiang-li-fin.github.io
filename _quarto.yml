@@ -10,7 +10,7 @@ website:
       - text: Research
         href: research/research.qmd
       - text: CV
-        href: files/CV_Xiang_Li_2025Nov26.pdf 
+        href: files/Xiang_Li_CV_2025Nov26.pdf 
         target: _blank
 #      - text: Blog
 #        href: posts/index.qmd
