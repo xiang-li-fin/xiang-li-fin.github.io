@@ -1,16 +1,17 @@
 project:
   type: website
 website:
-  site-url: "https://xiang-li.com"
+  site-url: "https://xiang-li-fin.github.io"
   title: ""
   navbar:
     left:
       - text: Home
         href: index.qmd
       - text: Research
-        href: research/index.qmd
+        href: research/research.qmd
       - text: CV
-        href: CV_Xiang_Li_2025Nov23.pdf 
+        href: files/CV_Xiang_Li_2025Nov26.pdf 
+        target: _blank
 #      - text: Blog
 #        href: posts/index.qmd
   favicon: favicon.ico

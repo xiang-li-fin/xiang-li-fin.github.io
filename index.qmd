@@ -9,4 +9,8 @@ about:
       href: https://www.linkedin.com/in/xiang-li-58b976232
 ---
 
-This page intentionally left blank.
+Welcome to my webpage.
+
+I am Xiang Li, a PhD candidate in Finance at Erasmus School of Economics, Erasmus University Rotterdam. 
+
+My research explores how finance shapes real economic outcomes, with a focus on innovation, entrepreneurship, and household finance.
