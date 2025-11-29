@@ -3,6 +3,7 @@ project:
 website:
   site-url: "https://xiang-li-fin.github.io"
   title: ""
+  favicon: logo.jpg
   navbar:
     left:
       - text: Home
@@ -10,11 +11,10 @@ website:
       - text: Research
         href: research/research.qmd
       - text: CV
-        href: files/Xiang_Li_CV_2025Nov26.pdf 
+        href: files/CV_Xiang_Li.pdf 
         target: _blank
 #      - text: Blog
 #        href: posts/index.qmd
-  favicon: favicon.ico
   google-analytics: ""
   # cookie-consent: true
   open-graph: true
