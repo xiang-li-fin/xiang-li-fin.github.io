@@ -3,15 +3,15 @@ project:
 website:
   site-url: "https://xiang-li-fin.github.io"
   title: ""
-  favicon: logo.jpg
+  favicon: /logo.jpg
   navbar:
     left:
       - text: Home
         href: index.qmd
       - text: Research
-        href: research/research.qmd
+        href: /research/research.qmd
       - text: CV
-        href: files/CV_Xiang_Li.pdf 
+        href: /files/CV_Xiang_Li.pdf 
         target: _blank
 #      - text: Blog
 #        href: posts/index.qmd
