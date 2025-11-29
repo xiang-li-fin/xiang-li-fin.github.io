@@ -9,12 +9,12 @@ website:
       - text: Home
         href: index.qmd
       - text: Research
-        href: /research/research.qmd
+        href: /research/research.html
       - text: CV
         href: /files/CV_Xiang_Li.pdf 
         target: _blank
 #      - text: Blog
-#        href: posts/index.qmd
+#        href: posts/posts.qmd
   google-analytics: ""
   # cookie-consent: true
   open-graph: true
