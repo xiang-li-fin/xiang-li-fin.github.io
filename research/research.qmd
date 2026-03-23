@@ -17,7 +17,7 @@ Abstract: Innovation is a crucial driver of economic growth, but investment in i
 
 ### Limited Liability and Manufacturing: Evidence from Homestead Exemption Laws in the 19th-century U.S
 
-*Peter Koudijs* 
+*With Peter Koudijs* 
 
 Abstract: This paper studies how limited personal liability affects firm investment and output, using variation in 19th-century U.S. homestead exemption laws. These state-level laws, which protected households’ primary residences from creditors, provide plausibly exogenous variation across states and over time. Combining newly assembled state-level data with firm-level manufacturing census data from 1850 to 1880, we estimate dynamic effects using a stacked difference-in-differences design. Stronger exemption protection increases firms’ adoption of steam engines, total horsepower, and investment in labor and raw materials, with no effect on capital. These changes lead to substantial and persistent gains in output. The effects emerge over time and are concentrated among small firms. Overall, the results suggest that the risk-sharing benefits of limited liability outweigh agency costs, promoting technological adoption and industrial growth.
 
